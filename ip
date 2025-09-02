@@ -1,0 +1,167 @@
+# IP
+# CONTOH
+# GUNAKAN TANDA # SEBANYAK TIGA KALI LALU LANJUTKAN DENGAN MENGISI NAMA CLIENT, MASA AKTIF, DAN IP VPS
+# CONTOH
+### TES 2025-05-20 206.189.87.111
+# JIKA INGIN USER NYA MENJADI RESELLER AUTOSCRIPT TAMBAHKAN UJUNGNYA ON
+# CONTOH 
+### TESS 2024-12-11 128.199.212.101 ON 98
+# DAN JIKA INGIN MEMBUKA FITUR RESELLER IP (KHUSUS ADMIN) TINGGAL TAMBAH BELAKANGNYA ON VIP
+# CONTOH
+### sgdolensa 2025-04-13 143.198.92.246
+### herza 2024-11-09 38.47.180.91 @tes
+### rumahweb 2024-11-17 202.10.36.151 @TESS
+### link 2024-12-12 103.210.69.125 ON 5 
+### idcccc 2024-11-17 103.49.238.171 OFF  @DS
+### seller1 2024-12-23 103.210.69.67 @DS  @DS
+### dasarae 2024-12-30 2001:df7:5300:8::39 ON 2 VIP
+### nova 2024-12-05 103.181.182.185 @zneva -6 VIP
+### Morhan 2024-11-27 103.253.145.170 OFF  @DS
+### Dezan 2024-12-31 103.161.184.229 @DS  @DS
+### Dezan1 2024-12-31 2001:df7:5300:3::1bc OFF  @DS
+### upcloud 2024-11-06 95.111.192.97
+### upcloud 2024-11-06 2a04:3543:1000:2310:b81c:6aff:fe5b:6a67
+###
+### Biz 2024-12-06 103.127.138.59 @trial
+### rmhweb2 2025-09-16 202.10.35.13 @45day  @nova
+### rmhweb2 2025-09-16 2001:df1:7800::218 OFF  @nova
+### dwi 2025-01-13 104.56.88.62 OFF  @DS
+### masyuda 2025-01-13 108.278.288.22 OFF  @DS
+### biajsa 2025-01-14 127.178.167.178 OFF  @DS
+### ffff 2025-01-14 103.234.22.3 OFF  @DS
+### mikaamel 2025-01-15 103.211.34.55 OFF  @DS
+### rasit 2025-01-15 167.288.188.33 OFF  @DS
+### arnando 2025-01-15 208.56.7.99 OFF  @DS
+### adibayu 2024-12-18 202.10.36.206 OFF  @DS
+### adibayu 2024-12-18 2001:df0:27b::27eb:46ed
+### bizz 2024-11-21 103.150.190.221 OFF  @DS
+### linkgo 2024-12-24 103.210.69.137 @DS
+### trial12 2024-11-26 103.154.92.218 OFF  @DS
+### hhh 2024-11-26 103.210.69.70 @trial
+### linggooo 2025-02-26 103.210.69.153 ON 50 @DS
+### zneva 2024-12-26 2001:df7:5300:3::151 ON 5
+
+
+### jaka 2025-09-22 103.253.145.170 @
+### clouddid 2024-12-01 103.82.92.187 OFF  @nova
+### selleraliba 2024-12-31 8.219.59.192 @zneva
+### trial2672 2024-12-02 128.199.160.227 @nova
+### linkgooooo 2024-12-31 103.210.69.143 ON 8 @nova
+### trial8383 2025-01-01 103.134.154.214 @nova  @nova
+### vvvvv 2025-01-30 160.19.167.124 @link
+### vvvvv 2025-01-30 2001:df7:5300:3::504 ON 15 VIP
+### lifetimekilua 2027-09-10 38.9.155.141 OFF  @DS
+### proffdigital 84162-03-13 103.184.123.2 OFF  @DS
+### petrushrza 2025-01-26 38.47.180.47 OFF  @DS
+### petrushrza 2025-01-26 2001:df4:f80:123:da4:96e3:83f2:1
+### fatur 2025-01-27 165.22.254.142 @linggooo
+### petrus 2025-01-31 103.180.165.150 @linggooo
+### raciknerpati 2025-01-31 149.129.245.45 @vvvvv
+### IAN 2025-02-02 167.71.219.238 @linggooo
+### dezan2 2025-04-21 103.161.185.35 @linggooo
+### dezan2 2025-02-03 2001:df7:5300:3::1fa
+### ian2 2025-02-04 157.15.124.121 @vvvvv
+### ian2 2025-02-04 2001:df7:5300:15::79
+### serviceparabola 2025-08-04 103.161.185.41 @sgku
+### serviceparabola 2025-02-05 2001:df7:5300:3::200
+### link 2025-02-07 103.157.27.219 ON -6 VIP
+### zz 2025-01-12 167.99.64.95 OFF  @DS
+### niko 2025-03-14 152.42.181.60 OFF  @link
+### tes 2025-01-18 103.215.229.162 OFF  @DS
+### niko2 2025-02-21 47.236.15.167 OFF  @link
+### petrus1 2025-04-23 146.190.87.99 OFF  @link
+### petrs2 2025-04-23 167.172.95.75
+### sgku 2025-04-23 139.59.227.63 ON 0 @link
+### marlinacloudaja 2025-02-28 103.180.165.143 ON 3 @link
+### kramat 2025-02-28 103.160.62.207 OFF  @link
+### petrusss2 2025-04-20 152.42.244.162 OFF  @link
+### jj 2025-02-12 206.189.153.46 @linkgo
+### ll 2025-02-11 152.42.231.242 @linkgo
+### hhh 2025-02-12 178.128.90.240 @linkgo
+### ganet 2025-06-15 103.186.0.210 @sgdonew
+### petrusbiznet 2025-03-15 103.150.192.171 @linkgo
+### petrussg2 2025-04-14 139.59.110.142 @linkgo
+### tshhs 2025-02-23 152.42.231.40 @linkgo
+### abdul 2025-04-26 103.171.84.191 @24
+### terial 2025-06-04 103.217.210.40 @sgdoku
+### xcozy 2025-04-02 128.199.142.226 @linkgo
+### 111 2025-03-04 1231222 ON 1 @linkgo
+### akunewlink 2025-04-04 103.157.27.154 ON 0 VIP
+### dasarae 2025-03-09 103.210.69.43 @akunewlink
+### tes 2025-03-07 103.157.27.166 @akunewlink
+### rumahweb 2025-04-04 203.175.11.249 @akunewlink
+### teee 2025-03-09 103.157.27.163 @akunewlink
+### IAN2 2025-04-11 202.10.42.172 @akunewlink
+### await 2025-04-14 8.215.199.31 @sgku
+### trial 2025-03-16 103.157.27.134 @sgku
+### biznetpetrus 2025-04-14 103.127.136.98 @sgku
+### fun1 2025-05-15 103.217.210.29
+### isigawat 2025-05-17 128.199.182.74 @akunewlink
+### msashop 2025-06-16 103.217.210.31 @akunewlink
+### triall278 2025-03-20 38.9.141.172 @akunewlink
+### triall2231 2025-03-21 43.229.254.230 @akunewlink
+### 24 2026-05-20 8.219.136.36 ON 14 VIP
+### sgdopet1 2025-05-21 128.199.142.85 OFF  @akunewlink
+### sgdopet2 2025-05-21 188.166.209.10 OFF  @akunewlink
+### sgdoku 2025-05-22 167.71.208.197 ON 0 @24
+### sgdonew 2025-05-22 188.166.183.140 ON 0 VIP
+### trial 2025-03-25 128.199.220.28 @sgdoku
+### msafun11 2025-06-20 103.217.210.53 @sgdoku
+### trial 2025-04-03 159.223.86.162 @sgdoku
+### indoku 2025-05-18 103.217.210.42 @sgdoku
+### simplewifineva 2025-11-13 103.181.182.172 @sgdonew
+### nevapetrus 2025-05-24 157.15.124.143 @sgdoku
+### nevapetrus2 2025-05-24 103.181.182.88 @sgdoku
+### petrusnewmsa1 2025-06-12 103.217.210.9 @sgdoku
+### nevamsa 2025-06-12 157.15.124.162 @sgdoku
+
+### petrusnewmsa2 2025-06-12 103.217.210.57
+### msaku 2025-05-28 103.217.210.58 @sgdonew 5 @sgdonew
+### salsabilavpn 2025-08-29 38.9.141.77 @sgdo2
+### wicluoudpetrua 2025-07-02 103.184.122.102 @sgdo1  @sgdonew
+### modalmega 2025-05-31 13.250.53.225 OFF  @sgdonew
+### petruswijaya2 2025-07-03 103.184.122.35 @sgdo1  @sgdonew
+### wcpetrus3 2025-06-24 103.184.122.98 @sgdo1  @sgdonew
+
+### sgdo1 2025-07-30 157.230.249.182 ON 1
+### sgdo2 2025-08-10 143.198.195.179 ON 9 VIP
+### IANALIBABA 2025-06-22 13.213.70.131 @sgdo1
+### dbedhels 2025-06-22 202.10.44.95 @sgdo1
+### dbedhels 2025-06-22 2001:df0:27b::ecc4:c6aa @sgdo1
+### petrus1 2025-06-22 103.184.122.114 @sgdo1
+### linggoku 2025-08-21 103.210.69.52 @sgdo2
+### petrus4 2025-06-29 45.64.98.77 @sgdo1
+### sller 2025-07-02 41.216.178.173 @sgdo1
+### newmsa1 2025-08-04 103.217.210.79 @sgdo1
+### new2msa 2025-08-04 103.217.210.84 @sgdo1
+### newmsa3 2025-08-09 103.217.210.37 @sgdo1
+### newmsa4 2025-08-09 103.217.210.86 @sgdo1
+### newmsa3 2025-08-09 103.217.210.90
+### petrussg2 2025-08-15 178.128.208.106 @sgdo1
+### petrussg1 2025-08-15 159.223.73.248
+### BARBARRR 2025-09-20 103.151.141.111 ON 0 VIP
+### newaku 2025-07-24 103.210.69.63 @sgdo1
+### kurniawan 2025-07-27 103.178.153.230 @sgdo1
+### sg1raja 2025-09-29 178.128.104.96 @BARBARRR
+### sgdo2raja 2025-08-30 178.128.88.227 @sgdo1
+### sgdo4 2025-09-16 159.223.45.139 @BARBARRR
+### sgdo3 2025-09-01 178.128.110.112 @sgdo1
+### petruslinkgo 2025-08-04 103.210.69.54 @sgdo1
+### tesksks 2025-08-04 128.199.96.249 @sgdo1
+### nusa 2025-08-16 43.230.131.100 @sgdo1
+
+### konnntol 2025-08-17 000.0.0.0 ON 10 @sgdo2
+### atha 2025-08-17 41.216.178.184 OFF  @sgdo2
+### kurniavpn 2025-08-22 103.157.26.144 OFF  @sgdo2
+### kurniavpn2 2025-08-26 38.47.176.177 OFF  @sgdo2
+### kurniavpn2 2025-08-26 2001:df1:ff40:1:d7db:b89e:d97:1 OFF  @sgdo2
+### sgdo1 2025-10-30 159.223.95.235 OFF  @sgdo2
+### testrial 2025-08-04 103.142.21.3 OFF  @sgdo2
+### Indotechno 2025-09-04 103.151.140.133
+### 45day 2025-09-18 178.128.105.152 OFF  @sgdo2
+### testing 2025-08-06 103.160.202.148 OFF  @sgdo2
+### indotecno2 2025-09-04 103.151.140.215 OFF  @sgdo2
+### indotecno2 2025-09-11 103.151.140.136 OFF  @sgdo2
+### petrus4 2025-09-28 103.151.141.14 OFF  @BARBARRR
+### petrus5 2025-09-28 103.151.140.227 OFF  @BARBARRR
+### bmrk 2025-10-03 202.10.36.249 OFF  @BARBARRR
